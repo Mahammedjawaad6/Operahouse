@@ -1,6 +1,3 @@
-![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/Final_Bookable.png)
-![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/img7.png)
-![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/img3.png)
 # Operahouse
 ## Introduction
 
