@@ -4,7 +4,7 @@
 # Bookable
 ## Introduction
 
-Bookable is a Desktop application developed for people or venue owners, venue owners can signup and list their venues on the application and customers can book venues online for their event as per their desire. This makes simple and easy for customers to book a venue for event with ease and comfort, wihtout visiting the actual place.  
+Operahouse is a Desktop application developed for people or venue owners, venue owners can signup and list their venues on the application and customers can book venues online for their event as per their desire. This makes simple and easy for customers to book a venue for event with ease and comfort, wihtout visiting the actual place.  
 
 In this application, the user needs to be signup and log in for further advantages. The venue owners simple list their venues on the application and customers can book a venue by specifying the details like location, date&time etc. The user will see the full information about the venue and if the person is interested he will check the availability, if the selected venue is available full filling the other criteria as well then customer will sent a request to the venue owner who added the particular venue and if he is available according to the date he will accept and the user will be able to see the status that the booking is confirmed.This application enables you to book venues as per the choice of customer and his / her requirements.
 
@@ -33,10 +33,10 @@ Adminstrator:
 
 It can be summarized that the future scope of the project maintaining information regarding:
 
-1. We will host the platform on online servers to make it accessible worldwide
-2. We will develop Android / iOS App for mobile users.
-3. We will implement the backup mechanism for taking backup of codebase and database on regular basis on different servers.
-4. We will integrate gateway services to communicate with users.
+1. I will host the platform on online servers to make it accessible worldwide
+2. I will develop Android / iOS App for mobile users.
+3. I will implement the backup mechanism for taking backup of codebase and database on regular basis on different servers.
+4. I will integrate gateway services to communicate with users.
 
 The above mentioned points are the enhancements which can be done to increase the applicability and usage of this project.
 Here we can maintain the records of Booking and Customer. 
@@ -63,21 +63,6 @@ Here we can maintain the records of Booking and Customer.
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request. 
 
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-## Acknowledgements
-
-- [Unsplash](https://unsplash.com) for providing beautiful food imagery.
-- [FontAwesome](https://fontawesome.com) for the icons used in the landing page.
-
-## Resources
-
-- [Documentation](https://github.com/GurdeepSingh-767/bookable/tree/main/Documents) - Detailed project report is here attached
-- [Demo]() - Live demonstration of the bookable website .
-  
----
 ## Conclusion
 
 The Online Venue Booking System has been developed to replace the manual process of booking venue. As an attempt to develop which makes it easier to book a venue online which makes it easier to find a venue of their choice, which is done online using the computers instead of going to place and hunt.
