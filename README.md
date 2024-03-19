@@ -1,7 +1,7 @@
 ![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/Final_Bookable.png)
 ![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/img7.png)
 ![logo](https://github.com/GurdeepSingh-767/bookable/blob/main/screenshots/img3.png)
-# Bookable
+# Operahouse
 ## Introduction
 
 Operahouse is a Desktop application developed for people or venue owners, venue owners can signup and list their venues on the application and customers can book venues online for their event as per their desire. This makes simple and easy for customers to book a venue for event with ease and comfort, wihtout visiting the actual place.  
